@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="c6b73b3973605b10aa99f9bc4ab8b74b" sys_domain="global" table="x_2145368_wrm_reservation_tracker" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-15 10:26:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0ab73b3973605b10aa99f9bc4ab8b751</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2145368_wrm_reservation_tracker" name="x_2145368_wrm_reservation_tracker" sys_domain="global" view="Default view">c6b73b3973605b10aa99f9bc4ab8b74b</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_2145368_wrm_reservation_tracker" sys_domain="global" view="Default view">4f6477b173605b10aa99f9bc4ab8b712</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-15 10:26:30</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-15 10:26:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>82b73b3973605b10aa99f9bc4ab8b753</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2145368_wrm_reservation_tracker" name="x_2145368_wrm_reservation_tracker" sys_domain="global" view="Default view">c6b73b3973605b10aa99f9bc4ab8b74b</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_2145368_wrm_reservation_tracker" sys_domain="global" view="Default view">0eb7f73973605b10aa99f9bc4ab8b737</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-15 10:26:30</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-15 10:27:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ddf7ff3973605b10aa99f9bc4ab8b7e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2145368_wrm_reservation_tracker" name="x_2145368_wrm_reservation_tracker" sys_domain="global" view="Default view">c6b73b3973605b10aa99f9bc4ab8b74b</sys_ui_form>
+            <sys_ui_section caption="Details" display_value="Details" name="x_2145368_wrm_reservation_tracker" sys_domain="global" view="Default view">59f777b173605b10aa99f9bc4ab8b71f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-15 10:27:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-15 10:31:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ad8bbb973605b10aa99f9bc4ab8b72b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2145368_wrm_reservation_tracker" name="x_2145368_wrm_reservation_tracker" sys_domain="global" view="Default view">c6b73b3973605b10aa99f9bc4ab8b74b</sys_ui_form>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_2145368_wrm_reservation_tracker" sys_domain="global" view="Default view">92d8bbb973605b10aa99f9bc4ab8b727</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-15 10:31:27</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_2145368_wrm_reservation_tracker</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-15 10:26:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6b73b3973605b10aa99f9bc4ab8b74b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2145368_wrm_reservation_tracker</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="WRM" source="x_2145368_wrm">af71971173205710aa99f9bc4ab8b71f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="WRM">af71971173205710aa99f9bc4ab8b71f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c6b73b3973605b10aa99f9bc4ab8b74b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-15 10:26:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

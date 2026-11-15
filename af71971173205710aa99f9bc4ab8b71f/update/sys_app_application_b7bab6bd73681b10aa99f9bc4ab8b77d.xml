@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Reservation Tracker</name>
+        <order>100</order>
+        <roles>x_2145368_wrm.wrm_agent</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-15 06:00:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b7bab6bd73681b10aa99f9bc4ab8b77d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reservation Tracker</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="WRM" source="x_2145368_wrm">af71971173205710aa99f9bc4ab8b71f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WRM">af71971173205710aa99f9bc4ab8b71f</sys_scope>
+        <sys_update_name>sys_app_application_b7bab6bd73681b10aa99f9bc4ab8b77d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-15 06:00:06</sys_updated_on>
+        <title>Reservation Tracker</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
