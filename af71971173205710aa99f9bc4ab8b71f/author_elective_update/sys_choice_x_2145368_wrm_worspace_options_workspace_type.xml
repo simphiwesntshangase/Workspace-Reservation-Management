@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2026-11-14 11:27:34</sys_created_on>
-            <sys_id>3e1cb625732c9710aa99f9bc4ab8b701</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>workspace_type</sys_name>
             <sys_package display_value="WRM" source="x_2145368_wrm">af71971173205710aa99f9bc4ab8b71f</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2026-11-14 11:27:34</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>361cb625732c9710aa99f9bc4ab8b701</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-11-14 11:27:34</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2026-11-14 11:27:35</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>361cb625732c9710aa99f9bc4ab8b704</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-11-14 11:27:35</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2026-11-14 11:27:35</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>ba1cb625732c9710aa99f9bc4ab8b705</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-11-14 11:27:35</sys_updated_on>
@@ -90,7 +86,6 @@
             <sys_created_on>2026-11-14 11:27:35</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>321cb625732c9710aa99f9bc4ab8b707</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-11-14 11:27:35</sys_updated_on>

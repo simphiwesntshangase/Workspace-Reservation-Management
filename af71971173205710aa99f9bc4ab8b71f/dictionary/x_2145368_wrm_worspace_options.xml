@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="8fe4dae573e49710aa99f9bc4ab8b7b4" label="Workspace Options" max_length="40" name="x_2145368_wrm_worspace_options" type="collection">
+        <element choice="1" label="Status" max_length="255" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Under maintenance" sequence="2" value="under_maintenance"/>
+                <element inactive_on_update="false" label="Decommissioned" sequence="3" value="decommissioned"/>
+                <element inactive_on_update="false" label="Unavailable" sequence="1" value="unavailable"/>
+                <element inactive_on_update="false" label="Available" sequence="0" value="available"/>
+            </choice>
+        </element>
+        <element label="Image" max_length="40" name="image" type="user_image"/>
+        <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element choice="1" label="Workspace type" max_length="40" name="workspace_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Meeting room" sequence="3" value="meeting_room"/>
+                <element inactive_on_update="false" label="Hot desk" sequence="0" value="hot_desk"/>
+                <element inactive_on_update="false" label="Focus room" sequence="1" value="focus_room"/>
+                <element inactive_on_update="false" label="Collaboration space" sequence="2" value="collaboration_space"/>
+            </choice>
+        </element>
+        <element label="Workspace name" max_length="40" name="workspace_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Workspace description" max_length="1000" name="workspace_description" type="string"/>
+        <element label="Max occupancy" max_length="40" name="max_occupancy" type="integer"/>
+        <index name="index">
+            <element name="location"/>
+        </index>
+    </element>
+</database>

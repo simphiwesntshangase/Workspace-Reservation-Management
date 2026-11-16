@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2026-11-14 11:27:35</sys_created_on>
-            <sys_id>871cb625732c9710aa99f9bc4ab8b761</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>status</sys_name>
             <sys_package display_value="WRM" source="x_2145368_wrm">af71971173205710aa99f9bc4ab8b71f</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2026-11-14 11:27:35</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>8f1cb625732c9710aa99f9bc4ab8b760</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-11-14 11:27:35</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2026-11-14 11:27:35</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>8b1cb625732c9710aa99f9bc4ab8b763</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-11-14 11:27:35</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2026-11-14 11:27:35</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>031cb625732c9710aa99f9bc4ab8b765</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-11-14 11:27:35</sys_updated_on>
@@ -90,7 +86,6 @@
             <sys_created_on>2026-11-14 11:27:35</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>871cb625732c9710aa99f9bc4ab8b766</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-11-14 11:27:35</sys_updated_on>
